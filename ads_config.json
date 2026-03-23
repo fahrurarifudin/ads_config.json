@@ -1,11 +1,11 @@
 {
   "ads_settings": {
     "is_ads_enabled": true,
-    "ironsource_app_key": "MASUKKAN_APP_KEY_IRONSOURCE_DISINI",
+    "ironsource_app_key": "1ef2b5e15",
     "admob_units": {
-      "app_id": "ca-app-pub-xxxxxxxx~xxxxxxx",
-      "banner_id": "ca-app-pub-xxxxxxxx/xxxxxxxx",
-      "interstitial_id": "ca-app-pub-xxxxxxxx/xxxxxxxx"
+      "app_id": "ca-app-pub-2257819253396802~4735672805",
+      "banner_id": "ca-app-pub-2257819253396802/4328089058",
+      "interstitial_id": "ca-app-pub-2257819253396802/5952551559"
     },
     "control": {
       "interstitial_interval_seconds": 60,
